@@ -9,3 +9,8 @@ dataset: https://drive.google.com/file/d/1mwiUY6ixwgH09esI8plobLN3WCX_24JE/view?
 ```shell
 conda env create -f environment.yml
 ```
+
+## Train
+```shell
+python Main.py
+```
