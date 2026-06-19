@@ -1,4 +1,4 @@
-name: mamba
+name: hadiff
 channels:
   - defaults
   - bioconda
