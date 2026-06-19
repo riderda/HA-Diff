@@ -4,3 +4,6 @@
 original fasta file: https://drive.google.com/file/d/1dUWWCiD0Z9sahz1JNOx5oFEiLH9fhGxo/view?usp=drive_link
 
 ## Installation
+```shell
+conda env create -f environment.yml
+```
