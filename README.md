@@ -19,7 +19,7 @@ We highly recommend using Anaconda to manage the environment. To install the req
 
 ```shell
 # Create the conda environment from the provided environment.yml
-[cite_start]conda env create -f environment.yml 
+conda env create -f environment.yml 
 
 # Activate the environment
 conda activate hadiff
