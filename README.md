@@ -9,8 +9,8 @@ Official PyTorch implementation of **HA-Diff**, a conditional diffusion model in
 We construct a large-scale dataset containing approximately 110,000 high-quality aligned HA sequences from 495 host species. 
 You can download the dataset and the original FASTA files from the links below:
 
-- [cite_start][Original FASTA File](https://drive.google.com/file/d/1dUWWCiD0Z9sahz1JNOx5oFEiLH9fhGxo/view?usp=drive_link) 
-- [cite_start][Processed Dataset](https://drive.google.com/file/d/1mwiUY6ixwgH09esI8plobLN3WCX_24JE/view?usp=drive_link) 
+- [Original FASTA File](https://drive.google.com/file/d/1dUWWCiD0Z9sahz1JNOx5oFEiLH9fhGxo/view?usp=drive_link) 
+- [Processed Dataset](https://drive.google.com/file/d/1mwiUY6ixwgH09esI8plobLN3WCX_24JE/view?usp=drive_link) 
 
 
 ## ⚙️ Installation
